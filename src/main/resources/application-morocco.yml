@@ -1,0 +1,9 @@
+country:
+  name: "morocco"
+  currency_name: "MAD"
+energy:
+  base_tariff:
+    power_limit: 1000000000
+    price: 5
+  upper_tariff:
+    price: 6

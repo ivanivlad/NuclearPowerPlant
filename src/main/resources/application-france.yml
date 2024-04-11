@@ -1,0 +1,8 @@
+country:
+  name: "france"
+  currency_name: "EU"
+energy:
+  price: "0.5"
+  discount:
+    amountPercent: 1
+    power_limit: 1000000000
